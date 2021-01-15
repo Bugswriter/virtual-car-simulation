@@ -184,9 +184,6 @@ I felt that the validation loss is not a great indication of how well it drives.
 
 The model can drive the course without bumping into the side ways.
 
-- [The Lake Track - YouTube Link](https://youtu.be/7QdL3Az55jU)
-- [The Mountain Track - YouTube Link](https://youtu.be/fqaibk81eM4)
-
 ## References
 - NVIDIA model: https://devblogs.nvidia.com/parallelforall/deep-learning-self-driving-cars/
 - Udacity Self-Driving Car Simulator: https://github.com/udacity/self-driving-car-sim
